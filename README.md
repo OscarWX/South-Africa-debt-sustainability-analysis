@@ -1,2 +1,5 @@
 # South-Africa-debt-sustainability-analysis
-This paper investigates the interaction between debt sustainability and economic growth in South Africa
+This paper investigates the interaction between debt sustainability and economic growth in South Africa, which has been affected by a rising debt-to-GDD ratio and economic hardships caused by the 2008 global financial crisis and the 2020 COVID-19 pandemic. 
+
+With its historical inefficiencies in electricity infrastructure exacerbating the economic challenges, it’s crucial to understand whether South Africa’s growth rate can manage this growing debt burden. This paper also addresses the significant impact of the country’s energy infrastructure deficiencies, particularly the power cuts that have led to GDP losses and hampered development. I draw attention to the need for strategic government spending in this sector. Utilizing a two-step quantitative analysis, this study applies a Debt Sustainability Analysis (DSA) to model the sustainable growth rate and further calculates the potential economic growth from increased government spending on the energy sector. This research confirms an existing gap between the sustainable and actual growth rates for South Africa and finds that government spending on the energy sector can help close the gap. 
+
